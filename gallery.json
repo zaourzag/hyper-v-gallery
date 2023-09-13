@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/MicrosoftDocs/Virtualization-Documentation/live/hyperv-tools/vmgallery/vm-gallery-schema.json",
+
+    "images": [
+        {
+            "name":  "Windows Server 2022",
+            "version":  "21H2",
+            "locale":  "en-us",
+            "publisher":  "Microsoft Corporation",
+            "lastUpdated":  "2023-09-14T00:38:09Z",
+            "description":  [
+                "Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure, and a flexible application platform. As part of this release, we are bringing secured-core capabilities to help protect hardware, firmware, and Windows Server OS capabilities against advanced security threats. Secured-core server builds on technologies such as Windows Defender System Guard and Virtualization-based Security to minimize risk from firmware vulnerabilities and advanced malware. The new release also provides secured connectivity that introduces several new capabilities such as faster and more secure encrypted HTTPS connections, industry standard SMB AES 256 encryption and more."
+            ],
+            "disk":  {
+                "uri":  "https://cdn.zakariao.nl/iso/en-us_windows_server_2022_x64_dvd_620d7eac.iso",
+                "hash":  "sha256:0E4DB47B335B989D131E3D7E0566AF7409CA3DDA3D90AA8BA0F28B8E516252A7"
+            },
+            "logo":  {
+                "uri":  "https://raw.githubusercontent.com/zaourzag/hyper-v-gallery/master/Windows_Server_2022_logo.svg.png",
+                "hash":  "sha256:C68F3C5C0331376800FF4C865EF1D8EFFB89C097C343607944C05FCAF5778872"
+            },
+            "symbol":  {
+               "uri": "https://raw.githubusercontent.com/zaourzag/hyper-v-gallery/master/Windows10_Symbol.png",
+               "hash": "sha256:4eb5a4e58f69b8ce2725ea4b2aee9466deadb9990e273882ba04d767b4b10f6b",
+            },
+            "thumbnail":  {
+                "uri":  "https://raw.githubusercontent.com/zaourzag/hyper-v-gallery/master/Windows_Server_2022_32187_RWVeCL.avif",
+                "hash":  "sha256:24ECF369B6B9BED0FCFB07BEEF433F6233FD571F6184E99F4CF162744ADA6BFA"
+            }
+        }
+    ]
+}
