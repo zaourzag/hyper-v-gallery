@@ -7,12 +7,12 @@
             "version":  "21H2",
             "locale":  "en-us",
             "publisher":  "Microsoft Corporation",
-            "lastUpdated":  "2023-09-14T00:38:09Z",
+            "lastUpdated":  "2023-09-14T02:14:55Z",
             "description":  [
                 "Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure, and a flexible application platform. As part of this release, we are bringing secured-core capabilities to help protect hardware, firmware, and Windows Server OS capabilities against advanced security threats. Secured-core server builds on technologies such as Windows Defender System Guard and Virtualization-based Security to minimize risk from firmware vulnerabilities and advanced malware. The new release also provides secured connectivity that introduces several new capabilities such as faster and more secure encrypted HTTPS connections, industry standard SMB AES 256 encryption and more."
             ],
             "disk":  {
-                "uri":  "https://cdn.zakariao.nl/iso/en-us_windows_server_2022_x64_dvd_620d7eac.iso",
+                "uri":  "https://iso.aws.zakariao.nl/en-us_windows_server_2022_x64_dvd_620d7eac.iso",
                 "hash":  "sha256:0E4DB47B335B989D131E3D7E0566AF7409CA3DDA3D90AA8BA0F28B8E516252A7"
             },
             "logo":  {
